@@ -9,4 +9,4 @@ title: Home
 
 Here are some of my GitHub Pages:
 
-- [Two Number Sum](https://github.com/ChampionTej05/ChampionTej05.github.io/docs/pages/two_number_sum.md)
+- [Two Number Sum](https://github.com/ChampionTej05/ChampionTej05.github.io/blob/main/docs/pages/two_number_sum.md)
